@@ -1,4 +1,4 @@
-Hello there, My name is Damian
+Hello there, My name is Damian and i am a frontier stack developer, UX designer 
 Passionate about *building scalable software, solving complex problems, and contributing to open-source*. I love experimenting with new tech and sharing knowledge with the community 
 
 *🚀 Featured Projects* 
