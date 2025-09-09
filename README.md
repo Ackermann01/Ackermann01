@@ -1,13 +1,14 @@
 Hello there, My name is Damian and i am a frontier stack developer, UX designer 
 Passionate about *building scalable software, solving complex problems, and contributing to open-source*. I love experimenting with new tech and sharing knowledge with the community 
 
-*🚀 Featured Projects* 
-| Project | Description | Tech Stack |  
-|---------|------------|------------|  
-| *[Project |](https://github.com/you/project1)* | A web app for X. | React, Node, MongoDB |  
-| *[Project ||](https://github.com/you/project2)* | CLI tool for Y. | Python, Click, Docker |  
+## 🚀 Featured Projects  
 
-*📈 GitHub Stats*
+| Project | Description | Tech Stack |  
+|---------|-------------|------------|  
+| *[DevOps Dashboard](https://github.com/you/devops-dashboard)* | A full-stack platform to monitor CI/CD pipelines, visualize deployment metrics, and manage containerized workloads. | React, Node.js, Docker, Kubernetes, Grafana |  
+| *[DataForge CLI](https://github.com/you/dataforge-cli)* | Command-line tool for transforming, validating, and packaging large datasets with support for plugins and pipelines. | Python, Click, Pandas, Docker |  
+| *[SecureShare](https://github.com/you/secureshare)* | End-to-end encrypted file sharing service with JWT authentication and real-time notifications. | Next.js, Express.js, PostgreSQL, WebSockets |  
+| *[AlgoViz](https://github.com/you/algoviz)* | Interactive visualization tool for algorithms and data structures, designed for students and educators. | TypeScript, D3.js, TailwindCSS |*📈 GitHub Stats*
 
 ## 🌐 Socials:
  [![Instagram](https://img.shields.io/badge/Instagram-%23E1306C?logo=instagram&logoColor=white)](https://www.instagram.com/just_damien10) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Damien_1000) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:udokoroemmanuel6@gmail.com) 
@@ -24,17 +25,13 @@ Passionate about *building scalable software, solving complex problems, and cont
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ackermann01&theme=tokyonight&hide_border=true&layout=compact" height="180em"/>
   </a>
 
-<p align="center">
-  <a href="https://github.com/Ackermann01">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ackermann01&theme=tokyonight&hide_border=true&layout=compact" height="180em"/>
-  </a>
-</p>)
+
 
 # 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Ackermann01&limit=12&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ackermann01 &icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Ackermann01&icon=0&color=white)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 *🌱 Currently Learning*  
