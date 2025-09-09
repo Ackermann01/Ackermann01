@@ -18,7 +18,18 @@ Passionate about *building scalable software, solving complex problems, and cont
 
 <p align="center">
   <a href="https://github.com/Ackermann01">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ackermann01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180em"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Ackermann01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180cm"/>
+  </a>
+  <a href="https://github.com/Ackermann01">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Ackermann01&theme=tokyonight&hide_border=true" height="180cm"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Ackermann01">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ackermann01&theme=tokyonight&hide_border=true&layout=compact" height="180em"/>
+  </a>
+</p>"/>
   </a>
   <a href="https://github.com/Ackermann01">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Ackermann01&theme=tokyonight&hide_border=true" height="180em"/>
