@@ -22,9 +22,12 @@ Passionate about *building scalable software, solving complex problems, and cont
 
 <p align="center">
   <a href="https://github.com/Ackermann01">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ackermann01&theme=tokyonight&hide_border=true&layout=compact" height="180em"/>
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ackermann01&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&hide=Jupyter%20Notebook" 
+      height="180cm"
+    />
   </a>
-
+</p>
 
 
 # 🔝 Top Contributed Repo
